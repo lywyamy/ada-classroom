@@ -1,0 +1,52 @@
+header, footer {
+    border-style: dotted;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+footer {
+    margin-top: 20px;
+}
+main {
+    background-color: antiquewhite;
+}
+
+body {
+    font-family: sans-serif;
+    background-color:bisque;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.book-title {
+    font-style: italic;
+}
+
+a:hover {
+    background-color: darksalmon;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    color:midnightblue;
+}
+
+p {
+    line-height: 150%;
+    color: darkslategrey;
+}
+
+section {
+    background-color: ghostwhite;
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    list-style: circle;
+}

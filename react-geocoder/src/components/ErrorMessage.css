@@ -1,0 +1,11 @@
+#error-message-box {
+    border-style:dashed;
+    border-radius: 3px;
+    border-color: darkred;
+    background-color:lightsalmon;
+}
+
+#error-message-header {
+    font-size:xx-large;
+    color: brown;
+}
